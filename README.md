@@ -1,34 +1,26 @@
-# Hi, I'm Rania Bennani 👋
+# Rania Bennani
 
-🎓 **AI & Data Science Engineering Student**
+**AI & Data Science Engineering Student**
 
-I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent solutions, exploring data, and solving real-world problems through technology.
+Interested in Artificial Intelligence, Machine Learning, and Data Science, with a focus on developing data-driven solutions.
 
-## 🧠 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Generative AI
-- Natural Language Processing (NLP)
-- Data Science & Data Engineering
+## Areas of Interest
+- Machine Learning & Deep Learning
+- Generative AI
+- Natural Language Processing
 - Computer Vision
+- Data Science
 
-## 🛠️ Tech Stack
+## Technical Skills
+- **Programming:** Python, SQL
+- **Data Science:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Power BI, Matplotlib
+- **Tools:** Git, GitHub, Docker, PostgreSQL
 
-**Programming:** Python, SQL
-
-**Data Science:** Pandas, NumPy, Scikit-learn
-
-**AI & Machine Learning:** Machine Learning, Deep Learning, Generative AI
-
-**Data Visualization:** Power BI, Matplotlib
-
-**Tools & Technologies:** Git, GitHub, Docker, PostgreSQL
-
-
-## 🌍 Languages
-
+## Languages
 - Arabic
 - French
 - English
 
-## 🤝 Let's Connect!
+## Contact
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
