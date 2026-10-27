@@ -22,5 +22,4 @@ Interested in Artificial Intelligence, Machine Learning, and Data Science, with 
 - **ICESCO:** Web development
 
 ## Contact
-- **LinkedIn:** [Rania Bennani](https://linkedin.com/in/Rania-Bennani)
 - **Email:** bennanirania97@gmail.com
